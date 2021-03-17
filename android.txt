@@ -1,0 +1,14 @@
+void onCreate(Bundle saveBundleInstance){
+
+btn1 = (Button) findViewById(R.id.Button1);
+btn2 = (Button) findViewById(R.id.Button2);
+
+FragmentManager fm = getSupportFragmentManager();
+
+
+
+btn1.setOnCLickListner(new View.-----(){
+Fragment Transaction = ft.beginTransaction();
+ft.Replace(R.id.Main Container, new Fragment());
+ft.Commit();
+}
