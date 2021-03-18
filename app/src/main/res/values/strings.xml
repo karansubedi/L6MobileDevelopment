@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="welcome">Welcome to the Quiz Application</string>
+    <string name="ok_button">Proceed</string>
+    <string name="user_name">Enter Your Name</string>
+    <string name="txt_field_name">Name</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="finish_button">Finish</string>
+    <string-array name="question">
+        <item>Which of the following is not a programming language? ,Java,PHP,Python,Html,Html </item>
+        <item>Which of the following is not a RDBMS? ,MS,SQL,Oracle,MongoDB,MySql,MongoDB</item>
+        <item>Which of the following is not an OS? ,Windows,Linux,Ubuntu,Word,Word</item>
+        <item>Which of the following is not a country? ,Nepal,India,China,Kanpur,Kanpur</item>
+        <item>What is the height of Mount Everest? ,8848 metres,8849 metres,8847 metres,8088 metres,8848 metres</item>
+    </string-array>
+</resources>
